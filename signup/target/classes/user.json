@@ -1,0 +1,12 @@
+{
+	
+	"admin":{
+		
+		"username":"admin",
+		"password":"password",
+		"mobile":"9876543210",
+		"role":"ADMIN"
+		
+	}
+	
+}

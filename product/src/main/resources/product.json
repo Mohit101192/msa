@@ -1,0 +1,40 @@
+{
+	"1":[{
+		"id":1,
+		"name":"Salon",
+		"subProductList":[{
+			"id":1,
+			"name":"Hair Cutting",
+			"price" :"150"
+		},
+		{
+			"id":2,
+			"name":"Beard Trimming/Shaving",
+			"price" :"100"
+		},
+		{
+			"id":3,
+			"name":"Hair Straightening",
+			"price" :"1000"
+		}
+		
+		]
+		
+		
+	}]
+	,
+	"2":[{
+		"id":2,
+		"name":"Painter",
+		"subProductList":[{
+			"id":3,
+			"name":"House Painting",
+			"price" :"1500"
+		}
+		
+		]
+		
+		
+	}]
+	
+}
